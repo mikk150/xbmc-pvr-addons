@@ -26,9 +26,7 @@
 #include <vector>
 #include <map>
 
-#include "avcodec.h"
-
-typedef std::vector<CodecID> CodecVector;
+typedef std::vector<xbmc_codec_t> CodecVector;
 
 #include "platform/util/StdString.h"
 
